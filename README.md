@@ -43,21 +43,28 @@ Explore the inner workings of our Iris Flower Classification project on GitHub.
 
 
 
-## Usage
+# Image Captioning with Gemini API and Streamlit 🖼️📝
 
+## Overview
+Step into the realm of computer vision with our Image Captioning project powered by the Gemini API. This project not only generates descriptive captions for images but also integrates a user-friendly interface using Streamlit, making it accessible and interactive.
+
+## Project Details
+- GitHub: [Image Captioning with Gemini API and Streamlit Repository](https://github.com/sathwik-3721/Image-Captioning-Gemini-API-Streamlit)
+
+## Usage
 1. Clone this repository to your local machine.
-2. Open the provided Jupyter notebooks in your preferred environment.
+2. Open the provided Jupyter notebooks, scripts, or Streamlit app in your preferred environment.
 3. Run and experiment with the code to understand the models and their performance.
 
 Feel free to contribute and enhance these projects as you embark on your coding journey!
 
 ## Acknowledgments
-
 Special thanks to the contributors and resources that inspired and guided the development of these models.
 
 - MNIST Dataset: [MNIST Dataset Documentation](https://keras.io/api/datasets/mnist/)
 - Credit Card Fraud Detection Dataset: [Credit Card Fraud Detection Dataset on Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 - UCI Machine Learning Repository: [Iris Data Set on UCI ML Repository](https://archive.ics.uci.edu/dataset/53/iris)
-
+- Gemini API: [Gemini API Documentation](https://geminiapi.com/docs)
+- Streamlit: [Streamlit Documentation](https://docs.streamlit.io)
 
 Happy coding! 🚀
